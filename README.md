@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonrammala&show_icons=true&locale=en" alt="simonrammala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonrammala&" alt="simonrammala" /></p>
+<!-----https://rahuldkjain.github.io/gh-profile-readme-generator----!>
